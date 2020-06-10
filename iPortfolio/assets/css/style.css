@@ -165,11 +165,12 @@ h6 {
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
-  font-size: 15px;
+  font-size: 17px;
+  font-family: 'BioRhyme', serif;
 }
 
 .nav-menu a i {
-  font-size: 24px;
+  font-size: 26px;
   padding-right: 8px;
   color: rgb(40, 40, 40);
 }
@@ -249,7 +250,7 @@ h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 64px;
+  font-size: 54px;
   font-weight: 700;
   line-height: 56px;
   color: #fff;
@@ -259,7 +260,7 @@ h6 {
   color: #fff;
   margin-bottom: 50px;
   font-size: 26px;
-  font-family: 'BioRhyme', serif;
+  font-family: 'Patua One', cursive;
   font-weight: 500;
 }
 
@@ -372,7 +373,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #ff9f80;
+  color: #ff8c66;
   float: left;
 }
 
@@ -456,7 +457,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #1f5297;
+  border-left: 2px solid #ff8c66;
   position: relative;
 }
 
@@ -472,7 +473,8 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4edf9;
+  background: rgb(44, 44, 44);
+  color: #ff6633;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -500,7 +502,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #1f5297;
+  border: 2px solid #ff8c66;
 }
 
 /*--------------------------------------------------------------
@@ -515,7 +517,7 @@ section {
   margin: 0 auto 35px auto;
   list-style: none;
   text-align: center;
-  background: #fff;
+  background: rgb(44, 44, 44);
   border-radius: 50px;
   padding: 2px 15px;
 }
@@ -528,14 +530,14 @@ section {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #272829;
+  color: #fff;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #ff9f80;
+  color: #ff6633;
 }
 
 .portfolio #portfolio-flters li:last-child {
