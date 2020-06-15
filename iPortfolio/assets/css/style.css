@@ -9,7 +9,9 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: 'PT Serif', serif;
+  font-size: 18px;
   color: #fff;
   background: rgb(99, 99, 99);
 }
@@ -410,7 +412,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 50px;
@@ -527,6 +529,7 @@ section {
   cursor: pointer;
   display: inline-block;
   padding: 10px 15px 8px 15px;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   font-weight: 600;
   line-height: 1;
@@ -630,6 +633,7 @@ section {
 .services .icon i {
   color: #fff;
   font-size: 24px;
+  transition: all 1s;
 }
 
 .services .icon-box:hover .icon {
@@ -638,6 +642,8 @@ section {
 
 .services .icon-box:hover .icon i {
   color: #ff9f80;
+  transform: scale(1.2);
+  transition: all 1s;
 }
 
 .services .title {
