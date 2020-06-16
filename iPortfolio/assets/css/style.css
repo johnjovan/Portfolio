@@ -769,6 +769,14 @@ section {
   padding-bottom: 130px;
 }
 
+.contact #to-contact {
+  text-align: center;
+}
+
+.contact #to-contact p{
+  margin: 15px 0;
+}
+
 .contact .info {
   padding: 30px;
   background: #fff;
