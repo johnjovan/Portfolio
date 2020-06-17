@@ -23,7 +23,8 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto", sans-serif;
+  /* font-family: "Roboto", sans-serif; */
+  font-family: 'BioRhyme', serif;
 }
 
 /*--------------------------------------------------------------
@@ -80,7 +81,9 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo h1 a, #header .logo h1 a:hover {
   color: #425451;
   text-decoration: none;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: 'Odibee Sans', cursive;
+  letter-spacing: 2px;
   font-weight: 600;
 }
 
