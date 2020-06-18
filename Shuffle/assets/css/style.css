@@ -538,6 +538,25 @@ section {
   font-family: "Poppins", sans-serif;
 }
 
+.about .icon-box{
+  margin-top: 15px;
+}
+
+.about .icon-box .bx{
+  font-size: 50px;
+  position: absolute;
+}
+
+.about .icon-box h4{
+  margin: 0 0 10px 60px;
+  font-size: 24px;
+}
+
+.about .icon-box p{
+  margin-left: 60px;
+  margin-bottom: 10px;
+}
+
 .about .content ul {
   list-style: none;
   padding: 0;
